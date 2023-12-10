@@ -4,10 +4,39 @@
 
 ## Table des Matières
 
+- [Installation](#installation)
 - [App](#app)
 - [CreateTodoList](#createtodolist)
 - [TodoForm](#todoform)
 - [TodoList](#todolist)
+
+---
+
+## Installation
+
+Vérifier que Node.js est installé sur votre machine.
+
+```
+node -v
+```
+
+Cloner le projet
+
+```
+git clone [URL_du_dépôt_Git]
+```
+
+Installer les dépendances
+
+```
+npm install
+```
+
+Exécuter le projet
+
+```
+npm start
+```
 
 ---
 
