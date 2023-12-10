@@ -1,0 +1,8 @@
+.todo-item {
+    /* styles de base pour les tâches */
+}
+
+.todo-item.completed {
+    /* styles pour les tâches complétées */
+    text-decoration: line-through;
+}
